@@ -41,10 +41,10 @@
 10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
 11. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - 🔴 Hard
 12. [Chocolate Distribution Problem](https://leetcode.com/problems/distribute-chocolates/) - 🟢 Easy
-13. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard
+13. [Insert Interval](https://leetcode.com/problems/insert-interval/) - 🔴 Hard ❌
 14. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 🟡 Medium
 15. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) - 🟡 Medium
-16. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium
+16. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - 🟡 Medium ❌
 17. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
 18. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
 
